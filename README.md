@@ -1,6 +1,2 @@
-*Welcome to code*
-__Here are some personal examples of code and snippits__
-
-# music
-# music
-# presentations
+*Welcome to Music*
+__Here are some personal examples and snippits__
